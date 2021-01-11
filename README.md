@@ -45,3 +45,6 @@ Home Work to Stephen Boyd's Convex Optimization class (CVX101 Stanford) with pyt
     - [Q2 - Maximum likelihood prediction of team ability]()
     - [Q3 - Allocation of interdiction effort]()
 
+### Wanna Learn More ?
+
+Check out [this repository](https://github.com/PKUFlyingPig/Self-learning-Computer-Science) which contains all my self-learning materials : )
